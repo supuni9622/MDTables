@@ -1,1 +1,9 @@
-# MDTables
+| Generation           | Birth Years  | Current Age (2025.01.06) | Key Traits                                     | Major Influences                           | Technology Exposure                 |
+|---------------------|--------------|--------------------------|------------------------------------------------|-------------------------------------------|-------------------------------------|
+| Silent Generation    | 1928–1945    | Age 80+                  | Disciplined, Loyal, strong work ethic, resilience | WWII, Great Depression                    | Minimal                             |
+| Baby Boomers         | 1946–1964    | Age 61-79                | Optimistic, Competitive                         | Post-war prosperity, civil rights movement | Rise of television                  |
+| Generation X         | 1965–1980    | Age 46-60                | Independent, Pragmatic                         | Economic instability, Early tech          | Personal Computers                   |
+| Millennials (Gen Y)  | 1981–1995    | Age 30-45                | Collaborative, Tech-savvy, Adaptability        | Internet boom, Social media               | Rise of Internet and Smartphones, Social media & globalization |
+| Generation Z         | 1996–2010    | Age 15-29                | Diverse, Global-minded                         | Social media, Economic crises             | Advanced Internet, Streaming        |
+| Generation Alpha     | 2010–2024    | Age 15 and younger       | Digital natives, Creative                      | AI, Smartphones, Climate change           | AI, Smart Devices                   |
+| Generation Beta      | 2025–2040    | 1-6 days                 | What do you think?                            |                                           |                                     |
